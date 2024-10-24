@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 soy Alex Daniel, tengo proyectos en Git. Desarrollador Java Actualmente enfocado en Data: técnicas de ETL's y análisis estadístico.
+
+ Estudio Tec. Desarrollo de software en Institución universitaria digital de Antioquia, tengo certificaciones web. Trabaje en Aris Mining en un equipo multidisciplinario como auxiliar de mina 5, puesto en el cual logre comprender el proceso en el que una máquina Perforadora de Exploración (Diamantina) extrae una muestra de roca que es llevada a laboratorio, sus datos extraídos tabulados y almacenados en bases de datos para luego ser procesados en modelos estadístico y matemático para determinar yacimientos de oro.
+
+ Si estás interesado en colaboraciones, no dudes en enviarme un correo electrónico
 
 <!--
 **alexdanielbaenayepez/alexdanielbaenayepez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
